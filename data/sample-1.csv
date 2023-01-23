@@ -1,0 +1,32 @@
+,Unnamed: 0,Manufacturer,Model,Type,Min.Price,Price,Max.Price,MPG.city,MPG.highway,AirBags,DriveTrain,Cylinders,EngineSize,Horsepower,RPM,Rev.per.mile,Man.trans.avail,Fuel.tank.capacity,Passengers,Length,Wheelbase,Width,Turn.circle,Rear.seat.room,Luggage.room,Weight,Origin,Make
+3,4,Audi,100,Midsize,30.8,37.7,44.6,19,26,Driver & Passenger,Front,6,2.8,172,5500,2535,Yes,21.1,6,193,106,70,37,31.0,17.0,3405,non-USA,Audi 100
+9,10,Cadillac,DeVille,Large,33.0,34.7,36.3,16,25,Driver only,Front,8,4.9,200,4100,1510,No,18.0,6,206,114,73,43,35.0,18.0,3620,USA,Cadillac DeVille
+10,11,Cadillac,Seville,Midsize,37.5,40.1,42.7,16,25,Driver & Passenger,Front,8,4.6,295,6000,1985,No,20.0,5,204,111,74,44,31.0,14.0,3935,USA,Cadillac Seville
+13,14,Chevrolet,Camaro,Sporty,13.4,15.1,16.8,19,28,Driver & Passenger,Rear,6,3.4,160,4600,1805,Yes,15.5,4,193,101,74,43,25.0,13.0,3240,USA,Chevrolet Camaro
+17,18,Chevrolet,Caprice,Large,18.0,18.8,19.6,17,26,Driver only,Rear,8,5.0,170,4200,1350,No,23.0,6,214,116,77,42,29.5,20.0,3910,USA,Chevrolet Caprice
+20,21,Chrysler,LeBaron,Compact,14.5,15.8,17.1,23,28,Driver & Passenger,Front,4,3.0,141,5000,2090,No,16.0,6,183,104,68,41,30.5,14.0,3085,USA,Chrysler LeBaron
+33,34,Ford,Mustang,Sporty,10.8,15.9,21.0,22,29,Driver only,Rear,4,2.3,105,4600,2285,Yes,15.4,4,180,101,68,40,24.0,12.0,2850,USA,Ford Mustang
+34,35,Ford,Probe,Sporty,12.8,14.0,15.2,24,30,Driver only,Front,4,2.0,115,5500,2340,Yes,15.5,4,179,103,70,38,23.0,18.0,2710,USA,Ford Probe
+38,39,Geo,Metro,Small,6.7,8.4,10.0,46,50,None,Front,3,1.0,55,5700,3755,Yes,10.6,4,151,93,63,34,27.5,10.0,1695,non-USA,Geo Metro
+42,43,Honda,Accord,Compact,13.8,17.5,21.2,24,31,Driver & Passenger,Front,4,2.2,140,5600,2610,Yes,17.0,4,185,107,67,41,28.0,14.0,3040,non-USA,Honda Accord
+45,46,Hyundai,Scoupe,Sporty,9.1,10.0,11.0,26,34,None,Front,4,1.5,92,5550,2540,Yes,11.9,4,166,94,64,34,23.5,9.0,2285,non-USA,Hyundai Scoupe
+46,47,Hyundai,Sonata,Midsize,12.4,13.9,15.3,20,27,None,Front,4,2.0,128,6000,2335,Yes,17.2,5,184,104,69,41,31.0,14.0,2885,non-USA,Hyundai Sonata
+48,49,Lexus,ES300,Midsize,27.5,28.0,28.4,18,24,Driver only,Front,6,3.0,185,5200,2325,Yes,18.5,5,188,103,70,40,27.5,14.0,3510,non-USA,Lexus ES300
+54,55,Mazda,626,Compact,14.3,16.5,18.7,26,34,Driver only,Front,4,2.5,164,5600,2505,Yes,15.5,5,184,103,69,40,29.5,14.0,2970,non-USA,Mazda 626
+57,58,Mercedes-Benz,190E,Compact,29.0,31.9,34.9,20,29,Driver only,Rear,4,2.3,130,5100,2425,Yes,14.5,5,175,105,67,34,26.0,12.0,2920,non-USA,Mercedes-Benz 190E
+59,60,Mercury,Capri,Sporty,13.3,14.1,15.0,23,26,Driver only,Front,4,1.6,100,5750,2475,Yes,11.1,4,166,95,65,36,19.0,6.0,2450,USA,Mercury Capri
+61,62,Mitsubishi,Mirage,Small,7.7,10.3,12.9,29,33,None,Front,4,1.5,92,6000,2505,Yes,13.2,5,172,98,67,36,26.0,11.0,2295,non-USA,Mitsubishi Mirage
+62,63,Mitsubishi,Diamante,Midsize,22.4,26.1,29.9,18,24,Driver only,Front,6,3.0,202,6000,2210,No,19.0,5,190,107,70,43,27.5,14.0,3730,non-USA,Mitsubishi Diamante
+66,67,Nissan,Maxima,Midsize,21.0,21.5,22.0,21,26,Driver only,Front,6,3.0,160,5200,2045,No,18.5,5,188,104,69,41,28.5,14.0,3200,non-USA,Nissan Maxima
+67,68,Oldsmobile,Achieva,Compact,13.0,13.5,14.0,24,31,None,Front,4,2.3,155,6000,2380,No,15.2,5,188,103,67,39,28.0,14.0,2910,USA,Oldsmobile Achieva
+68,69,Oldsmobile,Cutlass_Ciera,Midsize,14.2,16.3,18.4,23,31,Driver only,Front,4,2.2,110,5200,2565,No,16.5,5,190,105,70,42,28.0,16.0,2890,USA,Oldsmobile Cutlass_Ciera
+69,70,Oldsmobile,Silhouette,Van,19.5,19.5,19.5,18,23,None,Front,6,3.8,170,4800,1690,No,20.0,7,194,110,74,44,30.5,,3715,USA,Oldsmobile Silhouette
+71,72,Plymouth,Laser,Sporty,11.4,14.4,17.4,23,30,None,4WD,4,1.8,92,5000,2360,Yes,15.9,4,173,97,67,39,24.5,8.0,2640,USA,Plymouth Laser
+72,73,Pontiac,LeMans,Small,8.2,9.0,9.9,31,41,None,Front,4,1.6,74,5600,3130,Yes,13.2,4,177,99,66,35,25.5,17.0,2350,USA,Pontiac LeMans
+74,75,Pontiac,Firebird,Sporty,14.0,17.7,21.4,19,28,Driver & Passenger,Rear,6,3.4,160,4600,1805,Yes,15.5,4,196,101,75,43,25.0,13.0,3240,USA,Pontiac Firebird
+75,76,Pontiac,Grand_Prix,Midsize,15.4,18.5,21.6,19,27,None,Front,6,3.4,200,5000,1890,Yes,16.5,5,195,108,72,41,28.5,16.0,3450,USA,Pontiac Grand_Prix
+77,78,Saab,900,Compact,20.3,28.7,37.1,20,26,Driver only,Front,4,2.1,140,6000,2910,Yes,18.0,5,184,99,67,37,26.5,14.0,2775,non-USA,Saab 900
+78,79,Saturn,SL,Small,9.2,11.1,12.9,28,38,Driver only,Front,4,1.9,85,5000,2145,Yes,12.8,5,176,102,68,40,26.5,12.0,2495,USA,Saturn SL
+84,85,Toyota,Celica,Sporty,14.2,18.4,22.6,25,32,Driver only,Front,4,2.2,135,5400,2405,Yes,15.9,4,174,99,69,39,23.0,13.0,2950,non-USA,Toyota Celica
+85,86,Toyota,Camry,Midsize,15.2,18.2,21.2,22,29,Driver only,Front,4,2.2,130,5400,2340,Yes,18.5,5,188,103,70,38,28.5,15.0,3030,non-USA,Toyota Camry
+88,89,Volkswagen,Eurovan,Van,16.6,19.7,22.7,17,21,None,Front,5,2.5,109,4500,2915,Yes,21.1,7,187,115,72,38,34.0,,3960,non-USA,Volkswagen Eurovan
